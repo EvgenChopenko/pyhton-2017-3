@@ -74,3 +74,5 @@ for i in range(10):
     # strtt.join(result) преоброзование списка в строку
 
 #     "::".join()
+
+
